@@ -19,6 +19,8 @@ public class Tortuga extends Animal {
 		System.out.println("La tortuga " + nombre + " avanzó " + this.avanza + " m");
 		
 	}
+
+	
 	
 
 }
