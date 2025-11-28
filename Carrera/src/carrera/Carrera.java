@@ -31,7 +31,6 @@ public class Carrera implements Runnable{
 			animal.avanzar();
 			if (animal.getAvanza() >= 300) { 
 				System.out.println(animal.getNombre() + " entra en la meta");
-				//return;
 				System.exit(0); 
 			}
 			

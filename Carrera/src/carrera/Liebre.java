@@ -20,12 +20,12 @@ public class Liebre extends Animal{
 		if (liebreduerme != 4) {  
 			
             	this.avanzar = this.getAvanza() + this.velocidad;
-    			System.out.println("La liebre " + nombre + " ha avanzando " + this.avanzar + " metros");
+    			System.out.println("La liebre " + nombre + " avanzó " + this.avanzar + " m");
     			liebreduerme ++;
     			segundosparada = 10;
     			
 		}	else if (liebreduerme== 4) { 
-				System.out.println("La liebre " + nombre + " se ha dormido y no avanzara hasta dentro de " + segundosparada + " segundos");
+				System.out.println("La liebre " + nombre + " está dormida y no avanza hasta dentro de " + segundosparada + " segundos");
 				segundosparada --;
 				
 				if (segundosparada == 0) { 
