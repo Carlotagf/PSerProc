@@ -1,2 +1,3 @@
-2025/11/28-15:53:14.572 2a74 Creating DB C:\Users\carlota.garcia\Desktop\PSP\PSerProc\Carrera\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2025/11/28-15:53:14.610 2a74 Reusing MANIFEST C:\Users\carlota.garcia\Desktop\PSP\PSerProc\Carrera\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/11/28-15:53:23.682 1674 Reusing MANIFEST C:\Users\carlota.garcia\Desktop\PSP\PSerProc\Carrera\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/11/28-15:53:23.682 1674 Recovering log #3
+2025/11/28-15:53:23.683 1674 Reusing old log C:\Users\carlota.garcia\Desktop\PSP\PSerProc\Carrera\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 

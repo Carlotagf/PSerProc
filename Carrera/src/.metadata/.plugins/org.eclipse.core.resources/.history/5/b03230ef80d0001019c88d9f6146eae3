@@ -1,0 +1,27 @@
+package carrera;
+
+public class Mono extends Animal {
+	private int velocidad = 6;
+	private int avanzar;
+	private int liana;
+
+	public Mono(String nombre) {
+		super(nombre);
+		
+	}
+
+	@Override
+	protected int getAvanza() {
+		return avanzar;
+	}
+	
+	public void avanzar() {
+		if (avanzar == 20) {
+			this.avanzar = this.getAvanza() + this.velocidad;
+			System.out.println("El mono " + nombre + " llegó " + this.avanzar + " a la primera liana");
+			
+		}
+	}
+	
+
+}
